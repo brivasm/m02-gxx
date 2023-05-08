@@ -1,0 +1,28 @@
+body{background-color: lightgreen;
+font-family: sans-serif;}
+
+header{font-size: 24px;
+	width: 900px;
+	background: grey;
+	margin: 0 auto;}
+
+	#contenedor{width: 900px;
+		background: grey;
+		margin: 0 auto;
+		padding: 20px 5px;
+		float: center;}
+
+div{width: 820px;
+padding: 20px;
+margin: 20px;
+background: white;}
+ 
+#desarrollo{background-color: olive;}
+h1{background-color: yellow;
+width: 100%;
+padding: 50px;
+margin: 20px 0px ;
+
+}
+
+
